@@ -172,7 +172,7 @@ footer{
     flex-direction: column;
     height: 20em;
     width: 25em;
-    background-color: lightslategray;
+  background-color: rgb(88, 88, 88);
     border-top-left-radius: 1em;
     box-sizing: border-box;
     padding: .5em ;
